@@ -1,0 +1,1 @@
+Data was pulled down and formatted in Data Cleaning.ipynb.  It won't work without the input files in the current directory.  Analysis was done in Main.ipynb and that notebook will run.
